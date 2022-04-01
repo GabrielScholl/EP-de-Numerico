@@ -1,0 +1,17 @@
+Instruções de compilação e execução:
+Programa feito em Python 3.7.0, portanto deve-se usar esta versão para interpretar o arquivo EP2.py.
+Arquivo feito com enconding UTF-8.
+
+O EP2 tem partes do arquivo EP1.py para seu correto funcionamento, uma vez que faz uso de suas funções. As funções necessárias do EP1 já estão incluídas dentro do EP2.
+
+Para compilação do arquivo final, basta digitar na mesma pasta que este se encontra "EP2.PY".
+(A linha acima foi incluída pois retiraram pontos do EP1 por não indicarmos como compilar, mesmo Python sendo uma linguagem interpretada e não compilada)
+
+O programa perguntará qual teste está querendo realizar:
+1 - Teste da aplicação da transformação de Householder; ou
+2 - Teste da treliça.
+
+Basta digitar 1 ou 2. Se digitado 2, o EP2 vai ler o arquivo "input-c" e extrair as informações para resolução do problema físico (observe que fizemos a leitura do arquivo "input-c" como pedido no enunciado, se o arquivo tiver linhas em branco no final, não vai funcionar). Após isso o programa vai mostrar quais as 5 menores frequências e os respectivos modos.
+
+Se digitado 1, o programa dará opção para o usuário digitar uma matriz simétrica real de dimensão n qualquer. Caso queira usar uma matriz já pronta, basta escolher a opção que permite testar os arquivos "input-a" ou "input-b". O programa também permitirá que você escolha entre os arquivos.
+

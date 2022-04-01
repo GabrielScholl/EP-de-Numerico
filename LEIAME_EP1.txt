@@ -1,0 +1,3 @@
+Instruções de compilação e execução:
+Programa feito em Python 3.7.9, portanto deve-se usar esta versão para interpretar o arquivo EP1.py.
+Arquivo feito com enconding UTF-8.
